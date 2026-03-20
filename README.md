@@ -25,8 +25,6 @@ A full-stack web application for managing invoices, tracking payments, and monit
 | Frontend | HTML5, CSS3, Vanilla JavaScript |
 | Styling | Custom CSS (no frameworks) |
 
-No Node.js, no React, no TypeScript, no external CSS libraries — just Python and the browser.
-
 ---
 
 ## Project Structure
